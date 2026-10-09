@@ -1,0 +1,2941 @@
+[
+  {
+    "id": "45df94b363f640178b007fd0393a7a3f",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #68): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #68): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 68,
+      "worker_id": "TRACK-68",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.5639,
+        "y": 0.8576
+      },
+      "timestamp": "14:35:08"
+    },
+    "timestamp": "2026-10-09 14:35:08",
+    "created_at_ts": 1791536708.1485023,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_4f936792_20261009_143508_148532.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_4f936792_20261009_143508_148532.jpg"
+  },
+  {
+    "id": "c84bb22c80ca42ae92661f685b6e04f8",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #63): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #63): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 63,
+      "worker_id": "TRACK-63",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.5369,
+        "y": 0.8576
+      },
+      "timestamp": "14:34:58"
+    },
+    "timestamp": "2026-10-09 14:34:58",
+    "created_at_ts": 1791536698.0247424,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_bc1e50f5_20261009_143458_024771.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_bc1e50f5_20261009_143458_024771.jpg"
+  },
+  {
+    "id": "40c53f8d8c9a44ea970e937ede42332c",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6278,
+        "y": 0.5035
+      },
+      "timestamp": "14:34:47"
+    },
+    "timestamp": "2026-10-09 14:34:47",
+    "created_at_ts": 1791536687.8390083,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_e703669c_20261009_143447_839047.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e703669c_20261009_143447_839047.jpg"
+  },
+  {
+    "id": "be444cd1099a413e8edc3ff4b8e37e8b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6449,
+        "y": 0.5035
+      },
+      "timestamp": "14:34:37"
+    },
+    "timestamp": "2026-10-09 14:34:37",
+    "created_at_ts": 1791536677.7367792,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_fe778655_20261009_143437_736807.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_fe778655_20261009_143437_736807.jpg"
+  },
+  {
+    "id": "ee5a7b062fd24db7beb80d86b4651eb7",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6406,
+        "y": 0.5139
+      },
+      "timestamp": "14:34:27"
+    },
+    "timestamp": "2026-10-09 14:34:27",
+    "created_at_ts": 1791536667.7202203,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_b16438eb_20261009_143427_720249.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_b16438eb_20261009_143427_720249.jpg"
+  },
+  {
+    "id": "db19218fcfd7498bb4820c49d2519dc2",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.642,
+        "y": 0.5087
+      },
+      "timestamp": "14:34:17"
+    },
+    "timestamp": "2026-10-09 14:34:17",
+    "created_at_ts": 1791536657.6592362,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_6e58d9e8_20261009_143417_659263.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_6e58d9e8_20261009_143417_659263.jpg"
+  },
+  {
+    "id": "1f1d5c3a20904382bd0e1362d590c61e",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6449,
+        "y": 0.5156
+      },
+      "timestamp": "14:34:07"
+    },
+    "timestamp": "2026-10-09 14:34:07",
+    "created_at_ts": 1791536647.6459424,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_4258634f_20261009_143407_645967.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_4258634f_20261009_143407_645967.jpg"
+  },
+  {
+    "id": "d616a2af77f94ab396a5c0458710b51b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6577,
+        "y": 0.4983
+      },
+      "timestamp": "14:33:57"
+    },
+    "timestamp": "2026-10-09 14:33:57",
+    "created_at_ts": 1791536637.6028152,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_7c369215_20261009_143357_602846.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_7c369215_20261009_143357_602846.jpg"
+  },
+  {
+    "id": "24f6d3c801774357a0e3feb9ede05202",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "TRACK-51",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.642,
+        "y": 0.4983
+      },
+      "timestamp": "14:33:47"
+    },
+    "timestamp": "2026-10-09 14:33:47",
+    "created_at_ts": 1791536627.5644586,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_6f155c06_20261009_143347_564487.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_6f155c06_20261009_143347_564487.jpg"
+  },
+  {
+    "id": "bc8fb1d744c3463fad673e062fd37db1",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #48): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #48): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 48,
+      "worker_id": "TRACK-48",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6619,
+        "y": 0.5087
+      },
+      "timestamp": "14:33:37"
+    },
+    "timestamp": "2026-10-09 14:33:37",
+    "created_at_ts": 1791536617.504863,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_7860856d_20261009_143337_504884.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_7860856d_20261009_143337_504884.jpg"
+  },
+  {
+    "id": "0b11db519bc346c0a2a2a79a14b69947",
+    "type": "SMOKE",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Smoke detected",
+    "details": {
+      "confidence": 0.43
+    },
+    "timestamp": "2026-10-09 14:33:33",
+    "created_at_ts": 1791536613.578059,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\smoke_0ca84a37_20261009_143333_578095.jpg",
+    "screenshot_url": "/uploads/incidents/smoke_0ca84a37_20261009_143333_578095.jpg"
+  },
+  {
+    "id": "aea3bf10d2434019a98e2eb9e57f0148",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 43,
+      "worker_id": "TRACK-43",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.473,
+        "y": 0.8264
+      },
+      "timestamp": "14:33:27"
+    },
+    "timestamp": "2026-10-09 14:33:27",
+    "created_at_ts": 1791536607.3478718,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_ca8e3ddf_20261009_143327_347904.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ca8e3ddf_20261009_143327_347904.jpg"
+  },
+  {
+    "id": "d38eca7f5fc647d78505925383f5fc02",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #41): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #41): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 41,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6122,
+        "y": 0.5087
+      },
+      "timestamp": "14:33:17"
+    },
+    "timestamp": "2026-10-09 14:33:17",
+    "created_at_ts": 1791536597.2527397,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_d56ae41a_20261009_143317_252766.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_d56ae41a_20261009_143317_252766.jpg"
+  },
+  {
+    "id": "5bf19171a9884ded851da4a1d4b3469f",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #20): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #20): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 20,
+      "worker_id": "TRACK-20",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.4616,
+        "y": 0.8142
+      },
+      "timestamp": "14:33:07"
+    },
+    "timestamp": "2026-10-09 14:33:07",
+    "created_at_ts": 1791536587.150316,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_c7ee388c_20261009_143307_150346.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_c7ee388c_20261009_143307_150346.jpg"
+  },
+  {
+    "id": "55dffe4cd95a473cad323c1ad1657dcb",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #1): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #1): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 1,
+      "worker_id": "TRACK-1",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-left",
+      "position": {
+        "x": 0.2287,
+        "y": 0.8872
+      },
+      "timestamp": "14:28:07"
+    },
+    "timestamp": "2026-10-09 14:28:07",
+    "created_at_ts": 1791536287.8751192,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_f1050dc5_20261009_142807_875150.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_f1050dc5_20261009_142807_875150.jpg"
+  },
+  {
+    "id": "6c2d8375b0ed4a14802ba70c1f27c10f",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #1): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #1): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 1,
+      "worker_id": "TRACK-1",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-left",
+      "position": {
+        "x": 0.196,
+        "y": 0.8715
+      },
+      "timestamp": "14:27:57"
+    },
+    "timestamp": "2026-10-09 14:27:57",
+    "created_at_ts": 1791536277.8257167,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_24c970d3_20261009_142757_825742.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_24c970d3_20261009_142757_825742.jpg"
+  },
+  {
+    "id": "03e1024c0c784b6ba2660fd718c4361a",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #1): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #1): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 1,
+      "worker_id": "TRACK-1",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-left",
+      "position": {
+        "x": 0.1875,
+        "y": 0.8941
+      },
+      "timestamp": "14:27:47"
+    },
+    "timestamp": "2026-10-09 14:27:47",
+    "created_at_ts": 1791536267.7782855,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_cfce4258_20261009_142747_778311.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_cfce4258_20261009_142747_778311.jpg"
+  },
+  {
+    "id": "34e244eec5d44a5c9eb22bcb55001e34",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #31): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #31): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 31,
+      "worker_id": "TRACK-31",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2912,
+        "y": 0.6163
+      },
+      "timestamp": "14:27:23"
+    },
+    "timestamp": "2026-10-09 14:27:23",
+    "created_at_ts": 1791536243.2184274,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_963fc821_20261009_142723_218453.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_963fc821_20261009_142723_218453.jpg"
+  },
+  {
+    "id": "d8e154c3f03240058f9c4f7d879b326e",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #28): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #28): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 28,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-left",
+      "position": {
+        "x": 0.304,
+        "y": 0.5069
+      },
+      "timestamp": "14:27:13"
+    },
+    "timestamp": "2026-10-09 14:27:13",
+    "created_at_ts": 1791536233.0261312,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_5220c067_20261009_142713_026170.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_5220c067_20261009_142713_026170.jpg"
+  },
+  {
+    "id": "a1c27ae998974e95bca914aa840ec51c",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000002",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 14
+    },
+    "timestamp": "2026-10-09 14:26:58",
+    "created_at_ts": 1791536218.15611,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_41d275ae_20261009_142658_156152.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_41d275ae_20261009_142658_156152.jpg"
+  },
+  {
+    "id": "7964005b863a4d759cc5f3f547e90a74",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #20): missing helmet, vest, shoes",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #20): missing helmet, vest, shoes",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes"
+      ],
+      "track_id": 20,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3438,
+        "y": 0.5729
+      },
+      "timestamp": "14:26:52"
+    },
+    "timestamp": "2026-10-09 14:26:52",
+    "created_at_ts": 1791536212.7753253,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_0524403c_20261009_142652_775351.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_0524403c_20261009_142652_775351.jpg"
+  },
+  {
+    "id": "7fb2df3dcc56416081dee3aac6f676ee",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5014,
+        "y": 0.6528
+      },
+      "timestamp": "14:26:31"
+    },
+    "timestamp": "2026-10-09 14:26:31",
+    "created_at_ts": 1791536191.4259071,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_69675677_20261009_142631_425933.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_69675677_20261009_142631_425933.jpg"
+  },
+  {
+    "id": "96375b92e3b442fd9491284c28f6af4a",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000002",
+      "missing": [
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 25,
+      "verification_id": 13
+    },
+    "timestamp": "2026-10-09 14:26:29",
+    "created_at_ts": 1791536189.6326566,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_9c26492d_20261009_142629_632689.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_9c26492d_20261009_142629_632689.jpg"
+  },
+  {
+    "id": "29922342844748b38c1551c6e659654e",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5114,
+        "y": 0.6111
+      },
+      "timestamp": "14:26:21"
+    },
+    "timestamp": "2026-10-09 14:26:21",
+    "created_at_ts": 1791536181.30749,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_4b6d57a8_20261009_142621_307539.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_4b6d57a8_20261009_142621_307539.jpg"
+  },
+  {
+    "id": "d5e4edf6362243b3872acd5828c6c742",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5085,
+        "y": 0.6094
+      },
+      "timestamp": "14:26:11"
+    },
+    "timestamp": "2026-10-09 14:26:11",
+    "created_at_ts": 1791536171.216647,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_3c0949a4_20261009_142611_216671.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_3c0949a4_20261009_142611_216671.jpg"
+  },
+  {
+    "id": "c7ee034a640745fa99cdbdab820461b2",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5085,
+        "y": 0.6094
+      },
+      "timestamp": "14:26:01"
+    },
+    "timestamp": "2026-10-09 14:26:01",
+    "created_at_ts": 1791536161.214791,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_37488b12_20261009_142601_214817.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_37488b12_20261009_142601_214817.jpg"
+  },
+  {
+    "id": "1d53b2c7d3a440ac8408aa9ac0721389",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5099,
+        "y": 0.592
+      },
+      "timestamp": "14:25:51"
+    },
+    "timestamp": "2026-10-09 14:25:51",
+    "created_at_ts": 1791536151.1466029,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_4d6ed3dc_20261009_142551_146627.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_4d6ed3dc_20261009_142551_146627.jpg"
+  },
+  {
+    "id": "5227f1aaa47e40f59ac368b776ae0e6d",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5114,
+        "y": 0.6059
+      },
+      "timestamp": "14:25:40"
+    },
+    "timestamp": "2026-10-09 14:25:40",
+    "created_at_ts": 1791536140.818785,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_a92adff0_20261009_142540_818809.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a92adff0_20261009_142540_818809.jpg"
+  },
+  {
+    "id": "97e4fc09d16e41c3859da3b52d3cf495",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.5724,
+        "y": 0.6823
+      },
+      "timestamp": "14:25:30"
+    },
+    "timestamp": "2026-10-09 14:25:30",
+    "created_at_ts": 1791536130.758553,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_e2350447_20261009_142530_758585.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e2350447_20261009_142530_758585.jpg"
+  },
+  {
+    "id": "2e65644573bd40cb941aa046bc383833",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "badal (Track #6): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "badal (Track #6): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "P-000002",
+      "worker_name": "badal",
+      "mobile": "1236547893",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5838,
+        "y": 0.6354
+      },
+      "timestamp": "14:25:20"
+    },
+    "timestamp": "2026-10-09 14:25:20",
+    "created_at_ts": 1791536120.749949,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_3dd66586_20261009_142520_749977.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_3dd66586_20261009_142520_749977.jpg"
+  },
+  {
+    "id": "4fc9834719574364a3f28333c9e73675",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000002",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 12
+    },
+    "timestamp": "2026-10-09 14:25:15",
+    "created_at_ts": 1791536115.5119743,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_7647cf60_20261009_142515_512010.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_7647cf60_20261009_142515_512010.jpg"
+  },
+  {
+    "id": "a824587cd28a4e04ae9dd2891ee11792",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #6): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #6): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "TRACK-6",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6094,
+        "y": 0.5608
+      },
+      "timestamp": "14:25:10"
+    },
+    "timestamp": "2026-10-09 14:25:10",
+    "created_at_ts": 1791536110.65945,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_a0002a6b_20261009_142510_659478.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a0002a6b_20261009_142510_659478.jpg"
+  },
+  {
+    "id": "51c01f3d673943c297f7b6abf0515b84",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #6): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #6): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 6,
+      "worker_id": "TRACK-6",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.6236,
+        "y": 0.5608
+      },
+      "timestamp": "14:25:00"
+    },
+    "timestamp": "2026-10-09 14:25:00",
+    "created_at_ts": 1791536100.5012398,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_1aef9537_20261009_142500_501270.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_1aef9537_20261009_142500_501270.jpg"
+  },
+  {
+    "id": "2b4bb13fba5a4ee091f4f5ff5d4dc104",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #1): missing vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #1): missing vest, shoes, gloves",
+      "missing": [
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 1,
+      "worker_id": "TRACK-1",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-right",
+      "position": {
+        "x": 0.7131,
+        "y": 0.6372
+      },
+      "timestamp": "14:24:49"
+    },
+    "timestamp": "2026-10-09 14:24:49",
+    "created_at_ts": 1791536089.9303923,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_ad6f85aa_20261009_142449_930421.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ad6f85aa_20261009_142449_930421.jpg"
+  },
+  {
+    "id": "ac34bcff880a43a0aa9f7b7a448cca89",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000001",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 11
+    },
+    "timestamp": "2026-10-09 14:24:12",
+    "created_at_ts": 1791536052.335107,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_308a9246_20261009_142412_335130.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_308a9246_20261009_142412_335130.jpg"
+  },
+  {
+    "id": "6af7b8e3c6d245c78fc89a3fdcee3b32",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000002",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 10
+    },
+    "timestamp": "2026-10-09 14:22:55",
+    "created_at_ts": 1791535975.409325,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_7b6731cb_20261009_142255_409357.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_7b6731cb_20261009_142255_409357.jpg"
+  },
+  {
+    "id": "c540f85f97c748319a88231a12f04059",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000002",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 9
+    },
+    "timestamp": "2026-10-09 14:22:03",
+    "created_at_ts": 1791535923.0446622,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan_360_Final\\uploads\\incidents\\ppe_violation_ff1664f7_20261009_142203_044691.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ff1664f7_20261009_142203_044691.jpg"
+  },
+  {
+    "id": "4222afed10db4737b778e4f73b3c0ad8",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000001",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 8
+    },
+    "timestamp": "2026-10-09 10:54:32",
+    "created_at_ts": 1791523472.6417506,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_ba438937_20261009_105432_641788.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ba438937_20261009_105432_641788.jpg"
+  },
+  {
+    "id": "13a0a4a7035346f38d21a2384ceefa76",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000001",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 7
+    },
+    "timestamp": "2026-10-09 10:53:57",
+    "created_at_ts": 1791523437.4139419,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_1f434cbd_20261009_105357_413989.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_1f434cbd_20261009_105357_413989.jpg"
+  },
+  {
+    "id": "d5dc321b2f724120a5382d27908380a7",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #52): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #52): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 52,
+      "worker_id": "TRACK-52",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2869,
+        "y": 0.4983
+      },
+      "timestamp": "19:28:55"
+    },
+    "timestamp": "2026-10-08 19:28:55",
+    "created_at_ts": 1791467935.1679578,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_8b206709_20261008_192855_167983.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_8b206709_20261008_192855_167983.jpg"
+  },
+  {
+    "id": "408a5c8252f24e20bbd855824db4608b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #52): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #52): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 52,
+      "worker_id": "TRACK-52",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3054,
+        "y": 0.5
+      },
+      "timestamp": "19:28:45"
+    },
+    "timestamp": "2026-10-08 19:28:45",
+    "created_at_ts": 1791467925.0138474,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_8261a27d_20261008_192845_013875.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_8261a27d_20261008_192845_013875.jpg"
+  },
+  {
+    "id": "fbc9c78c4d6445038ea82a5066a6dd30",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #51): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #51): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 51,
+      "worker_id": "TRACK-51",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.294,
+        "y": 0.4948
+      },
+      "timestamp": "19:28:04"
+    },
+    "timestamp": "2026-10-08 19:28:04",
+    "created_at_ts": 1791467884.660409,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_3bdec40a_20261008_192804_660435.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_3bdec40a_20261008_192804_660435.jpg"
+  },
+  {
+    "id": "6e928b65e6dd474eb8953448e03187d7",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #49): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #49): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 49,
+      "worker_id": "TRACK-49",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2798,
+        "y": 0.4965
+      },
+      "timestamp": "19:27:54"
+    },
+    "timestamp": "2026-10-08 19:27:54",
+    "created_at_ts": 1791467874.630709,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_d4cc975c_20261008_192754_630734.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_d4cc975c_20261008_192754_630734.jpg"
+  },
+  {
+    "id": "452302e17435453bb68b516ad7560a49",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #48): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #48): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 48,
+      "worker_id": "TRACK-48",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.375,
+        "y": 0.4965
+      },
+      "timestamp": "19:27:44"
+    },
+    "timestamp": "2026-10-08 19:27:44",
+    "created_at_ts": 1791467864.5401804,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_5f839271_20261008_192744_540207.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_5f839271_20261008_192744_540207.jpg"
+  },
+  {
+    "id": "25e7c9b1b1a44c84b5ce82506a70cffc",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #47): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #47): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 47,
+      "worker_id": "TRACK-47",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2955,
+        "y": 0.4965
+      },
+      "timestamp": "19:27:34"
+    },
+    "timestamp": "2026-10-08 19:27:34",
+    "created_at_ts": 1791467854.230887,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_e9d104b2_20261008_192734_230914.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e9d104b2_20261008_192734_230914.jpg"
+  },
+  {
+    "id": "ce3e2dd522e540c487725f6fbdf908a7",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #45): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #45): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 45,
+      "worker_id": "TRACK-45",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2827,
+        "y": 0.4965
+      },
+      "timestamp": "19:27:24"
+    },
+    "timestamp": "2026-10-08 19:27:24",
+    "created_at_ts": 1791467844.175768,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_38555f48_20261008_192724_175792.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_38555f48_20261008_192724_175792.jpg"
+  },
+  {
+    "id": "2211cba9fbd747b595fdfbb4fdfd13d9",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 43,
+      "worker_id": "TRACK-43",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3281,
+        "y": 0.4948
+      },
+      "timestamp": "19:27:09"
+    },
+    "timestamp": "2026-10-08 19:27:09",
+    "created_at_ts": 1791467829.1066403,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_6ce3c02c_20261008_192709_106671.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_6ce3c02c_20261008_192709_106671.jpg"
+  },
+  {
+    "id": "826d32c0baaf4ab9b0bffe1bba646cf5",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 43,
+      "worker_id": "TRACK-43",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2784,
+        "y": 0.4983
+      },
+      "timestamp": "19:26:59"
+    },
+    "timestamp": "2026-10-08 19:26:59",
+    "created_at_ts": 1791467819.0773654,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_0962ec93_20261008_192659_077392.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_0962ec93_20261008_192659_077392.jpg"
+  },
+  {
+    "id": "11cb0f51c9f54fa586b65c8d366d9694",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #43): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 43,
+      "worker_id": "TRACK-43",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2756,
+        "y": 0.5
+      },
+      "timestamp": "19:26:49"
+    },
+    "timestamp": "2026-10-08 19:26:49",
+    "created_at_ts": 1791467809.0230992,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_749d7b4f_20261008_192649_023126.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_749d7b4f_20261008_192649_023126.jpg"
+  },
+  {
+    "id": "733ea357c31f4670860ef50d4524033f",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #39): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #39): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 39,
+      "worker_id": "TRACK-39",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2614,
+        "y": 0.4983
+      },
+      "timestamp": "19:26:36"
+    },
+    "timestamp": "2026-10-08 19:26:36",
+    "created_at_ts": 1791467796.5413244,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_a4559303_20261008_192636_541354.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a4559303_20261008_192636_541354.jpg"
+  },
+  {
+    "id": "3ffd879067364f1b899a6f598d2f5725",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #36): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #36): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 36,
+      "worker_id": "TRACK-36",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.267,
+        "y": 0.5
+      },
+      "timestamp": "19:26:26"
+    },
+    "timestamp": "2026-10-08 19:26:26",
+    "created_at_ts": 1791467786.4578993,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_8867943d_20261008_192626_457937.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_8867943d_20261008_192626_457937.jpg"
+  },
+  {
+    "id": "2baac67e128242278c5200ba77510ad8",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #34): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #34): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 34,
+      "worker_id": "TRACK-34",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3153,
+        "y": 0.4965
+      },
+      "timestamp": "19:26:12"
+    },
+    "timestamp": "2026-10-08 19:26:12",
+    "created_at_ts": 1791467772.7086332,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_e5c22304_20261008_192612_708661.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e5c22304_20261008_192612_708661.jpg"
+  },
+  {
+    "id": "9b4dc9eceefb4c2fbf2a3c48a90d043e",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #30): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #30): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 30,
+      "worker_id": "TRACK-30",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2699,
+        "y": 0.4965
+      },
+      "timestamp": "19:25:46"
+    },
+    "timestamp": "2026-10-08 19:25:46",
+    "created_at_ts": 1791467746.1438334,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_133f7ddb_20261008_192546_143862.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_133f7ddb_20261008_192546_143862.jpg"
+  },
+  {
+    "id": "b37e43821be4469db24a723af3a8493d",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #30): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #30): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 30,
+      "worker_id": "TRACK-30",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2685,
+        "y": 0.4965
+      },
+      "timestamp": "19:25:36"
+    },
+    "timestamp": "2026-10-08 19:25:36",
+    "created_at_ts": 1791467736.0277388,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_7b7e3e27_20261008_192536_027765.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_7b7e3e27_20261008_192536_027765.jpg"
+  },
+  {
+    "id": "15e725dce1e84a3a881f1b68607c8002",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #29): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #29): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 29,
+      "worker_id": "TRACK-29",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2798,
+        "y": 0.4965
+      },
+      "timestamp": "19:25:18"
+    },
+    "timestamp": "2026-10-08 19:25:18",
+    "created_at_ts": 1791467718.511936,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_ac1a2844_20261008_192518_511961.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ac1a2844_20261008_192518_511961.jpg"
+  },
+  {
+    "id": "c7da5d54d7c74f4993e3e56f07458c4b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #28): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #28): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 28,
+      "worker_id": "TRACK-28",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2628,
+        "y": 0.4965
+      },
+      "timestamp": "19:25:03"
+    },
+    "timestamp": "2026-10-08 19:25:03",
+    "created_at_ts": 1791467703.8658557,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_47c7821b_20261008_192503_865882.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_47c7821b_20261008_192503_865882.jpg"
+  },
+  {
+    "id": "d8cbc33254884282acff1579e4da735d",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #27): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #27): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 27,
+      "worker_id": "TRACK-27",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.304,
+        "y": 0.4983
+      },
+      "timestamp": "19:24:53"
+    },
+    "timestamp": "2026-10-08 19:24:53",
+    "created_at_ts": 1791467693.0376356,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_f1fdbcc6_20261008_192453_037666.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_f1fdbcc6_20261008_192453_037666.jpg"
+  },
+  {
+    "id": "d8d29558c8a74491a7e9b19b7efdf556",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #25): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #25): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 25,
+      "worker_id": "TRACK-25",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2855,
+        "y": 0.4965
+      },
+      "timestamp": "19:24:37"
+    },
+    "timestamp": "2026-10-08 19:24:37",
+    "created_at_ts": 1791467677.6805153,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_1eb7f414_20261008_192437_680555.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_1eb7f414_20261008_192437_680555.jpg"
+  },
+  {
+    "id": "f5eb98059acd470d939b30eeb1225da5",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #23): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #23): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 23,
+      "worker_id": "TRACK-23",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.402,
+        "y": 0.4809
+      },
+      "timestamp": "19:24:25"
+    },
+    "timestamp": "2026-10-08 19:24:25",
+    "created_at_ts": 1791467665.6737509,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_83598f46_20261008_192425_673785.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_83598f46_20261008_192425_673785.jpg"
+  },
+  {
+    "id": "5a225463c0d0495a83f36d0de48a2f3c",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #23): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #23): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 23,
+      "worker_id": "TRACK-23",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.294,
+        "y": 0.5
+      },
+      "timestamp": "19:24:15"
+    },
+    "timestamp": "2026-10-08 19:24:15",
+    "created_at_ts": 1791467655.4435668,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_a1253673_20261008_192415_443594.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a1253673_20261008_192415_443594.jpg"
+  },
+  {
+    "id": "f46d925bf1264b8b9c23b1fe46d26a26",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #22): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #22): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 22,
+      "worker_id": "TRACK-22",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2926,
+        "y": 0.5035
+      },
+      "timestamp": "19:24:03"
+    },
+    "timestamp": "2026-10-08 19:24:03",
+    "created_at_ts": 1791467643.6758015,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_100c4b91_20261008_192403_675829.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_100c4b91_20261008_192403_675829.jpg"
+  },
+  {
+    "id": "5bbfb006ab1f476890b4d66c83236283",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #22): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #22): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 22,
+      "worker_id": "TRACK-22",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2969,
+        "y": 0.5
+      },
+      "timestamp": "19:23:53"
+    },
+    "timestamp": "2026-10-08 19:23:53",
+    "created_at_ts": 1791467633.5761619,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_150497b0_20261008_192353_576192.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_150497b0_20261008_192353_576192.jpg"
+  },
+  {
+    "id": "e19ac55c1ae84a8cb5efd7550c15f2bb",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #19): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #19): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 19,
+      "worker_id": "TRACK-19",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2912,
+        "y": 0.5069
+      },
+      "timestamp": "19:23:32"
+    },
+    "timestamp": "2026-10-08 19:23:32",
+    "created_at_ts": 1791467612.0507221,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_ba956aba_20261008_192332_050769.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ba956aba_20261008_192332_050769.jpg"
+  },
+  {
+    "id": "c0b4851dc47f4e9f95b46f4d3e1ffcfa",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #17): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #17): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 17,
+      "worker_id": "TRACK-17",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3026,
+        "y": 0.5139
+      },
+      "timestamp": "19:23:07"
+    },
+    "timestamp": "2026-10-08 19:23:07",
+    "created_at_ts": 1791467587.510651,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_9e831c64_20261008_192307_510676.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_9e831c64_20261008_192307_510676.jpg"
+  },
+  {
+    "id": "6d83085da8974402a659c234c2e2f3e5",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #16): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #16): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 16,
+      "worker_id": "TRACK-16",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2784,
+        "y": 0.4965
+      },
+      "timestamp": "19:22:45"
+    },
+    "timestamp": "2026-10-08 19:22:45",
+    "created_at_ts": 1791467565.4661324,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_d78131c3_20261008_192245_466156.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_d78131c3_20261008_192245_466156.jpg"
+  },
+  {
+    "id": "bc6da2eeac7a4d71b97947f99da172d6",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 15,
+      "worker_id": "TRACK-15",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2912,
+        "y": 0.5156
+      },
+      "timestamp": "19:22:32"
+    },
+    "timestamp": "2026-10-08 19:22:32",
+    "created_at_ts": 1791467552.351611,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_d42ffadd_20261008_192232_351638.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_d42ffadd_20261008_192232_351638.jpg"
+  },
+  {
+    "id": "40b868bcf4454f99ad16e3a6a59d8242",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 15,
+      "worker_id": "TRACK-15",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2855,
+        "y": 0.4983
+      },
+      "timestamp": "19:22:21"
+    },
+    "timestamp": "2026-10-08 19:22:21",
+    "created_at_ts": 1791467541.6440797,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_db9ebd88_20261008_192221_644109.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_db9ebd88_20261008_192221_644109.jpg"
+  },
+  {
+    "id": "74951414c6ae45faae62ac5d8c626374",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 15,
+      "worker_id": "TRACK-15",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2741,
+        "y": 0.5
+      },
+      "timestamp": "19:22:11"
+    },
+    "timestamp": "2026-10-08 19:22:11",
+    "created_at_ts": 1791467531.5845213,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_5e45fe81_20261008_192211_584552.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_5e45fe81_20261008_192211_584552.jpg"
+  },
+  {
+    "id": "77f0855a04eb415d8484783800da1b1a",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #15): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 15,
+      "worker_id": "TRACK-15",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2741,
+        "y": 0.5104
+      },
+      "timestamp": "19:22:01"
+    },
+    "timestamp": "2026-10-08 19:22:01",
+    "created_at_ts": 1791467521.5484383,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_2156f612_20261008_192201_548468.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_2156f612_20261008_192201_548468.jpg"
+  },
+  {
+    "id": "35edaa9e166c4f64adc0ea8a369f491d",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #14): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #14): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 14,
+      "worker_id": "TRACK-14",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2415,
+        "y": 0.5122
+      },
+      "timestamp": "19:21:51"
+    },
+    "timestamp": "2026-10-08 19:21:51",
+    "created_at_ts": 1791467511.3889573,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_a4a702dc_20261008_192151_388981.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a4a702dc_20261008_192151_388981.jpg"
+  },
+  {
+    "id": "7c46b932eb7d490a9deb539102555a1b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #13): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #13): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 13,
+      "worker_id": "TRACK-13",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.2827,
+        "y": 0.5278
+      },
+      "timestamp": "19:21:41"
+    },
+    "timestamp": "2026-10-08 19:21:41",
+    "created_at_ts": 1791467501.1687498,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_5a6aa490_20261008_192141_168783.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_5a6aa490_20261008_192141_168783.jpg"
+  },
+  {
+    "id": "434f6985de5e4643a436127cfec471eb",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #3): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #3): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 3,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.4077,
+        "y": 0.5104
+      },
+      "timestamp": "19:07:15"
+    },
+    "timestamp": "2026-10-08 19:07:15",
+    "created_at_ts": 1791466635.521834,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_cc050e0f_20261008_190715_521869.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_cc050e0f_20261008_190715_521869.jpg"
+  },
+  {
+    "id": "2231f3927b9c41368738201ebbcf612d",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #3): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #3): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 3,
+      "worker_id": "TRACK-3",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3366,
+        "y": 0.5052
+      },
+      "timestamp": "19:07:05"
+    },
+    "timestamp": "2026-10-08 19:07:05",
+    "created_at_ts": 1791466625.4806569,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_540f8140_20261008_190705_480687.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_540f8140_20261008_190705_480687.jpg"
+  },
+  {
+    "id": "3da352a5ec44439fa26be3577274b887",
+    "type": "FIRE",
+    "source": "live",
+    "severity": "CRITICAL",
+    "message": "Fire detected",
+    "details": {
+      "confidence": 0.461
+    },
+    "timestamp": "2026-10-08 19:06:59",
+    "created_at_ts": 1791466619.7328477,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\fire_108601f6_20261008_190659_732878.jpg",
+    "screenshot_url": "/uploads/incidents/fire_108601f6_20261008_190659_732878.jpg"
+  },
+  {
+    "id": "e8716ced31634e77830df471f190253b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #2): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #2): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 2,
+      "worker_id": "TRACK-2",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5028,
+        "y": 0.5347
+      },
+      "timestamp": "19:06:55"
+    },
+    "timestamp": "2026-10-08 19:06:55",
+    "created_at_ts": 1791466615.4296682,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_67259d93_20261008_190655_429718.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_67259d93_20261008_190655_429718.jpg"
+  },
+  {
+    "id": "4ebabae355ec4f7e85ba6d8aa7035f57",
+    "type": "SMOKE",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Smoke detected",
+    "details": {
+      "confidence": 0.294
+    },
+    "timestamp": "2026-10-08 19:06:54",
+    "created_at_ts": 1791466614.3858898,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\smoke_392817ab_20261008_190654_385923.jpg",
+    "screenshot_url": "/uploads/incidents/smoke_392817ab_20261008_190654_385923.jpg"
+  },
+  {
+    "id": "d0f47ceaf75f4c6fa6901084d27ae849",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000001",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 6
+    },
+    "timestamp": "2026-10-08 19:06:45",
+    "created_at_ts": 1791466605.8176794,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_9362e30f_20261008_190645_817707.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_9362e30f_20261008_190645_817707.jpg"
+  },
+  {
+    "id": "ad9ce595e256411d98e6460645911e0f",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #69): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #69): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 69,
+      "worker_id": "TRACK-69",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3722,
+        "y": 0.625
+      },
+      "timestamp": "19:06:32"
+    },
+    "timestamp": "2026-10-08 19:06:32",
+    "created_at_ts": 1791466592.613226,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_4b05d53a_20261008_190632_613253.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_4b05d53a_20261008_190632_613253.jpg"
+  },
+  {
+    "id": "d95036314bae43c5ad3d2bd3e4737120",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #63): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #63): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 63,
+      "worker_id": "TRACK-63",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3679,
+        "y": 0.6076
+      },
+      "timestamp": "19:06:22"
+    },
+    "timestamp": "2026-10-08 19:06:22",
+    "created_at_ts": 1791466582.6089618,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_a05df6a5_20261008_190622_608989.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a05df6a5_20261008_190622_608989.jpg"
+  },
+  {
+    "id": "a03231e191ee49008d05b33f8a13f7b0",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #60): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #60): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 60,
+      "worker_id": "TRACK-60",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3253,
+        "y": 0.6354
+      },
+      "timestamp": "19:06:12"
+    },
+    "timestamp": "2026-10-08 19:06:12",
+    "created_at_ts": 1791466572.4938583,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_a1d69710_20261008_190612_493883.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a1d69710_20261008_190612_493883.jpg"
+  },
+  {
+    "id": "42061b833fa646fa8779eb8bb9e7220a",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #60): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #60): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 60,
+      "worker_id": "TRACK-60",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3878,
+        "y": 0.6233
+      },
+      "timestamp": "19:06:02"
+    },
+    "timestamp": "2026-10-08 19:06:02",
+    "created_at_ts": 1791466562.4764996,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_249d0649_20261008_190602_476530.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_249d0649_20261008_190602_476530.jpg"
+  },
+  {
+    "id": "e325f0414e2240ad9a4b229ae1592dd3",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #57): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #57): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 57,
+      "worker_id": "TRACK-57",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3949,
+        "y": 0.6319
+      },
+      "timestamp": "19:05:46"
+    },
+    "timestamp": "2026-10-08 19:05:46",
+    "created_at_ts": 1791466546.8828583,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_82283921_20261008_190546_882886.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_82283921_20261008_190546_882886.jpg"
+  },
+  {
+    "id": "58668308c62d4d1ea3defd69058d5225",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #53): missing helmet, vest, shoes",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #53): missing helmet, vest, shoes",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes"
+      ],
+      "track_id": 53,
+      "worker_id": "TRACK-53",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.4915,
+        "y": 0.684
+      },
+      "timestamp": "19:05:32"
+    },
+    "timestamp": "2026-10-08 19:05:32",
+    "created_at_ts": 1791466532.6525276,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_bb37bdd9_20261008_190532_652564.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_bb37bdd9_20261008_190532_652564.jpg"
+  },
+  {
+    "id": "404def735d8e439491cb3498b964d201",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #50): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #50): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 50,
+      "worker_id": "TRACK-50",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3977,
+        "y": 0.6493
+      },
+      "timestamp": "19:05:11"
+    },
+    "timestamp": "2026-10-08 19:05:11",
+    "created_at_ts": 1791466511.6556063,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_54e9c498_20261008_190511_655635.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_54e9c498_20261008_190511_655635.jpg"
+  },
+  {
+    "id": "cc122a17e7f84e2dad0a8831f9619ed1",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #47): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #47): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 47,
+      "worker_id": "TRACK-47",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3949,
+        "y": 0.6198
+      },
+      "timestamp": "19:04:57"
+    },
+    "timestamp": "2026-10-08 19:04:57",
+    "created_at_ts": 1791466497.7662427,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_de2732b0_20261008_190457_766273.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_de2732b0_20261008_190457_766273.jpg"
+  },
+  {
+    "id": "ca8f38940a6245c48c00b5a6239fb068",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #47): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #47): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 47,
+      "worker_id": "TRACK-47",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.3878,
+        "y": 0.6337
+      },
+      "timestamp": "19:04:47"
+    },
+    "timestamp": "2026-10-08 19:04:47",
+    "created_at_ts": 1791466487.5628083,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_73ca3799_20261008_190447_562835.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_73ca3799_20261008_190447_562835.jpg"
+  },
+  {
+    "id": "845f0870d52f4dae8845e881c8bc79a9",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #46): missing helmet, vest, shoes",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #46): missing helmet, vest, shoes",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes"
+      ],
+      "track_id": 46,
+      "worker_id": "TRACK-46",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "bottom-center",
+      "position": {
+        "x": 0.3935,
+        "y": 0.6701
+      },
+      "timestamp": "19:04:34"
+    },
+    "timestamp": "2026-10-08 19:04:34",
+    "created_at_ts": 1791466474.213107,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_2513de11_20261008_190434_213135.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_2513de11_20261008_190434_213135.jpg"
+  },
+  {
+    "id": "ea1d6ddf23644d18b720d87173307e5b",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000001",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 5
+    },
+    "timestamp": "2026-10-08 19:04:25",
+    "created_at_ts": 1791466465.6871953,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_e6149508_20261008_190425_687225.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e6149508_20261008_190425_687225.jpg"
+  },
+  {
+    "id": "0782c730607b4d6394f2e3eecfa9c5b6",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #43): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #43): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 43,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5,
+        "y": 0.5087
+      },
+      "timestamp": "19:04:23"
+    },
+    "timestamp": "2026-10-08 19:04:23",
+    "created_at_ts": 1791466463.7197256,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_e9c74125_20261008_190423_719754.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e9c74125_20261008_190423_719754.jpg"
+  },
+  {
+    "id": "fc5f9b4655424925b59eb17511a069db",
+    "type": "SMOKE",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Smoke detected",
+    "details": {
+      "confidence": 0.302
+    },
+    "timestamp": "2026-10-08 19:04:20",
+    "created_at_ts": 1791466460.3279533,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\smoke_bba0fa59_20261008_190420_327985.jpg",
+    "screenshot_url": "/uploads/incidents/smoke_bba0fa59_20261008_190420_327985.jpg"
+  },
+  {
+    "id": "a99c1859030946cd83e6b061cb6ed9dd",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #42): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #42): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 42,
+      "worker_id": "TRACK-42",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.267,
+        "y": 0.5035
+      },
+      "timestamp": "19:04:13"
+    },
+    "timestamp": "2026-10-08 19:04:13",
+    "created_at_ts": 1791466453.5986261,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_6ae085f3_20261008_190413_598652.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_6ae085f3_20261008_190413_598652.jpg"
+  },
+  {
+    "id": "5be7f135445d4e2f9bc62cd7687758d1",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #34): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #34): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 34,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3338,
+        "y": 0.5608
+      },
+      "timestamp": "19:04:02"
+    },
+    "timestamp": "2026-10-08 19:04:02",
+    "created_at_ts": 1791466442.7334259,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_37a55f4a_20261008_190402_733461.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_37a55f4a_20261008_190402_733461.jpg"
+  },
+  {
+    "id": "9feb006a72da4217bef9e5ded0525a4b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #34): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #34): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 34,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3239,
+        "y": 0.5104
+      },
+      "timestamp": "19:03:52"
+    },
+    "timestamp": "2026-10-08 19:03:52",
+    "created_at_ts": 1791466432.6080663,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_ac591511_20261008_190352_608104.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_ac591511_20261008_190352_608104.jpg"
+  },
+  {
+    "id": "6c629374d305423cbeac9a77bd1cd3d1",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "sidhanta (Track #34): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "sidhanta (Track #34): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 34,
+      "worker_id": "P-000001",
+      "worker_name": "sidhanta",
+      "mobile": "1478523698",
+      "zone": "top-center",
+      "position": {
+        "x": 0.5497,
+        "y": 0.2917
+      },
+      "timestamp": "19:03:42"
+    },
+    "timestamp": "2026-10-08 19:03:42",
+    "created_at_ts": 1791466422.5575857,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_6c8cb7f9_20261008_190342_557622.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_6c8cb7f9_20261008_190342_557622.jpg"
+  },
+  {
+    "id": "73d32053b6a74f748055bbf25c0339c6",
+    "type": "PPE_VIOLATION",
+    "source": "verification",
+    "severity": "HIGH",
+    "message": "PPE incomplete - missing: Helmet, Vest, Shoes, Gloves",
+    "details": {
+      "worker_id": "P-000001",
+      "missing": [
+        "Helmet",
+        "Vest",
+        "Shoes",
+        "Gloves"
+      ],
+      "ppe_percentage": 0,
+      "verification_id": 4
+    },
+    "timestamp": "2026-10-08 19:03:36",
+    "created_at_ts": 1791466416.5561078,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_a00d8505_20261008_190336_556130.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_a00d8505_20261008_190336_556130.jpg"
+  },
+  {
+    "id": "e65e86684e8d46ba804f554a90a112a2",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #33): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #33): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 33,
+      "worker_id": "TRACK-33",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-center",
+      "position": {
+        "x": 0.5938,
+        "y": 0.4965
+      },
+      "timestamp": "19:03:32"
+    },
+    "timestamp": "2026-10-08 19:03:32",
+    "created_at_ts": 1791466412.4097211,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_e8809b84_20261008_190332_409748.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_e8809b84_20261008_190332_409748.jpg"
+  },
+  {
+    "id": "b26f8b09df374b4291fc1073088fadac",
+    "type": "SMOKE",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Smoke detected",
+    "details": {
+      "confidence": 0.278
+    },
+    "timestamp": "2026-10-08 19:03:31",
+    "created_at_ts": 1791466411.5354648,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\smoke_2ab917eb_20261008_190331_535496.jpg",
+    "screenshot_url": "/uploads/incidents/smoke_2ab917eb_20261008_190331_535496.jpg"
+  },
+  {
+    "id": "a32afa7f63874d26b6b8836c421dd65b",
+    "type": "PPE_VIOLATION",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Unknown (Track #29): missing helmet, vest, shoes, gloves",
+    "details": {
+      "type": "PPE_VIOLATION",
+      "severity": "HIGH",
+      "message": "Unknown (Track #29): missing helmet, vest, shoes, gloves",
+      "missing": [
+        "helmet",
+        "vest",
+        "shoes",
+        "gloves"
+      ],
+      "track_id": 29,
+      "worker_id": "TRACK-29",
+      "worker_name": "Unknown",
+      "mobile": null,
+      "zone": "middle-left",
+      "position": {
+        "x": 0.3153,
+        "y": 0.6146
+      },
+      "timestamp": "19:03:22"
+    },
+    "timestamp": "2026-10-08 19:03:22",
+    "created_at_ts": 1791466402.3474114,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\ppe_violation_5b235b4f_20261008_190322_347438.jpg",
+    "screenshot_url": "/uploads/incidents/ppe_violation_5b235b4f_20261008_190322_347438.jpg"
+  },
+  {
+    "id": "3d42285b266b443483d4a87bfed88cf9",
+    "type": "SMOKE",
+    "source": "live",
+    "severity": "HIGH",
+    "message": "Smoke detected",
+    "details": {
+      "confidence": 0.414
+    },
+    "timestamp": "2026-10-08 19:03:14",
+    "created_at_ts": 1791466394.0289886,
+    "screenshot_path": "C:\\Users\\UTTAM\\Downloads\\SafeScan360_AUTH_ALARM\\uploads\\incidents\\smoke_83a2d345_20261008_190314_029019.jpg",
+    "screenshot_url": "/uploads/incidents/smoke_83a2d345_20261008_190314_029019.jpg"
+  }
+]
